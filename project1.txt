@@ -1,0 +1,9 @@
+shrutis-air:~ shrutibathia$ git clone https://github.com/shrutibathia/Computational-Social-Science-Projects.git
+shrutis-air:Computational-Social-Science-Projects shrutibathia$ mkdir project1
+shrutis-air:Computational-Social-Science-Projects shrutibathia$ ls
+shrutis-air:Computational-Social-Science-Projects shrutibathia$ touch project1.txt
+shrutis-air:Computational-Social-Science-Projects shrutibathia$ ls
+shrutis-air:Computational-Social-Science-Projects shrutibathia$ vim project1.txt
+shrutis-air:Computational-Social-Science-Projects shrutibathia$ git add *
+shrutis-air:Computational-Social-Science-Projects shrutibathia$ git commit -m "Adding Project1 commands"
+shrutis-air:Computational-Social-Science-Projects shrutibathia$ git push origin master
